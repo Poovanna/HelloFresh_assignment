@@ -4,7 +4,12 @@
 3. [Usage](#usage)
 
 # Recepies
-Parse and calculate the time taken in the recepies 
+This repository contains a script to download data from the given URL holding recipe data. 
+It then filters it based on a givien ingredient - chilies by default for now
+It then can parse the total time taken for the preparations of the filtered recipes,
+and then rate the difficulty based on the time taken for both the prep as well as the cooking.
+This filtered and labelled data is then stpored in a file.
+Next, the average time for each classification of difficulty is calculated and saved in a separate file.
 
 # Project Organization
     ├── hf_bi_python_exercise
