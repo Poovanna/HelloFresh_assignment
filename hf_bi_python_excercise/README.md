@@ -53,7 +53,7 @@ Next, the average time for each classification of difficulty is calculated and s
 4. Activate the environment.
 
     ```
-    piping shell
+    pipenv shell
     ```    
     Activates the defined python virtual environment
 
